@@ -1,0 +1,24 @@
+console:
+cloud shell:
+cloud apk:
+ssh terminal:
+gcloud:
+gsutil:
+ephemeral vm:
+compute engine:
+oAuth2:
+client libraries:
+rest api:
+vpc:
+network:
+subnetwork:
+ipaddress:
+routes and rules:
+bastion host:
+dhcp:
+fudn:
+cloud dns:
+public dns:
+primary and secondary cidr range:
+firewall rules and parameter:
+egress and ingress:
